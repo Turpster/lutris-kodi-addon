@@ -8,7 +8,7 @@
         <import addon="xbmc.python" version="2.25.0" />
     </requires>
     <extension point="xbmc.python.pluginsource" library="default.py">
-        <provides>game</provides>
+        <provides>game executable</provides>
     </extension>
     <extension point="xbmc.addon.metadata">
         <summary lang="en_GB">Lutris</summary>
